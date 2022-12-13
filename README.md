@@ -3,8 +3,8 @@
 Acutalmente soy un esutidante de formación profesional de **desarrollo de aplicaciones multiplataformas**.
 
 Empecé a programar hace ya unos cuatro años y esoty aprendiendo a trabajar con estos lenguajes:
-- [JavaScript](https://github.com/joseanpdp/programas-c)
-- C++
+- JavaScript
+- [C](https://github.com/joseanpdp/programas-c)
 - Go
 - Java
 
