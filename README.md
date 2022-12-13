@@ -7,7 +7,5 @@ Empecé a programar hace ya unos cuatro años y manejo un poco de estos lenguaje
 - [C](https://github.com/joseanpdp/programas-c)
 - Go
 - Java
-- HTML
-- [CSS](https://github.com/joseanpdp/grid)
 
-También estoy aprendiendo a hacer páginas decentes con HTML y CSS y espero poder aplicar JavaScript al desarrollo de páginas web.
+También estoy aprendiendo a hacer páginas decentes con HTML y [CSS](https://github.com/joseanpdp/grid) y espero poder aplicar JavaScript al desarrollo de páginas web.
