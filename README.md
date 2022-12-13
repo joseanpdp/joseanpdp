@@ -1,6 +1,5 @@
-### Hola a todos
+### ¡Hola!
 
-Soy **joseanpdp/joseanpdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acutalmente soy un esutidante de formación profesional de desarrollo de aplicaciones multiplataformas.
 
-
-
+Empecé a programar hacer 
