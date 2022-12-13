@@ -1,8 +1,8 @@
 ### ¡Hola!
 
-Acutalmente soy un esutidante de formación profesional de **desarrollo de aplicaciones multiplataformas**.
+Actualmente soy un estudiante de formación profesional de **desarrollo de aplicaciones multiplataformas**.
 
-Empecé a programar hace ya unos cuatro años y esoty aprendiendo a trabajar con estos lenguajes (de programación y de marcas):
+Empecé a programar hace ya unos cuatro años y manejo un poco de estos lenguajes (de programación y de marcas):
 - JavaScript
 - [C](https://github.com/joseanpdp/programas-c)
 - Go
